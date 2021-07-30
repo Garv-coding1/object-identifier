@@ -1,0 +1,39 @@
+.head {
+    width:100%;
+    margin-top:0;
+    font-size: 30px;
+    background-color: blue;
+    color:white;
+    padding:10px;
+    border-radius:15px;
+    box-shadow: 5px 5px 20px blue;
+    line-height: 2;
+}
+
+.button {
+    background: linear-gradient(to left, green, pink);
+    width:15%;
+    border-radius: 20px;
+    color:whitesmoke;
+    padding: 10px;;
+}
+#status,#nume {
+    font-size:20px;
+}
+canvas {
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px blue;
+    border: ridge 5px red;
+    margin-top: 200px;
+}
+
+.btton {
+    float:right;
+    background-color: brown;
+    color: cornsilk;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: -70px;
+    margin-right: 10px;
+}
